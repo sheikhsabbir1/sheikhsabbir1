@@ -11,11 +11,11 @@
 
 <div style="display: flex; gap: 10px;">
   <div>
-    [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)](https://github.com/sheikhsabbir1)
+    [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sheikhsabbir1&show_icons=true&theme=radical)](https://github.com/sheikhsabbir1)
   </div>
   <div>
-    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact)](https://github.com/sheikhsabbir1)
+    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sheikhsabbir1&layout=compact)](https://github.com/sheikhsabbir1)
   </div>
 </div>
 
-![Snake animation](https://github.com/yourusername/yourusername/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/sheikhsabbir1/sheikhsabbir1/blob/output/github-contribution-grid-snake.svg)
